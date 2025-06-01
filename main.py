@@ -3,6 +3,7 @@
 # Varaible
 Full_name = "Joaquin Piedra"
 
-print(f'Hello {Full_name}')
+# We use "f" which stands for format. to add a variable into a string
+print(type(5.989))
 
 
